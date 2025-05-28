@@ -20,4 +20,4 @@
 
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-%23232D25?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/6283164279551)
 [![YouTube](https://img.shields.io/badge/-YouTube-%23FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@xenagazelleid?si=Iu_-hXFaF2nidd19)
-[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/XenaOfficial)
+
