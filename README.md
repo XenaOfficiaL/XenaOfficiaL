@@ -12,7 +12,7 @@
 
 ### 🌟 *GitHub Streak*
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChymodOfficiaL)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=XenaOfficiaL)
 
 ### 🌐 *Connect with Me*
 
